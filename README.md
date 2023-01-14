@@ -27,7 +27,7 @@
     <tr>
       <td rowspan="4">Python</td>
       <td>Aventuras Fantasticas</td>
-      <td>Python (Funcional, Libs: Time, Random, Math)</td>
+      <td>Python (Estruturada, Libs: Time, Random, Math)</td>
     </tr>
     <tr>
       <td>Forca</td>
@@ -38,7 +38,7 @@
       <td>Python</td>
     </tr>
     <tr>
-      <td>Duck System</td>
+      <td><a href="https://github.com/AsaphRG/Duck_System">Duck System</a></td>
       <td>Python (Libs: PyODBC, Pandas, Math, String, OS, Colorama), SQL Server</td>
     </tr>
     <tr>
