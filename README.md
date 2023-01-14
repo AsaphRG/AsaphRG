@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me in <a href="https://www.linkedin.com/in/asaphresinagil/?locale=en_US">my linkedin</a> or mail me at <a href="mailto:asaphresina1215@gmail.com">asaphresina1215@gmail.com</a>.
 
-Here you can navigate through my repositories:
+<p>Here you can navigate through my repositories:</p>
 
 <table style="margin: auto">
   <thead>
@@ -25,9 +25,26 @@ Here you can navigate through my repositories:
       <td>HTML5, CSS3</td>
     </tr>
     <tr>
+      <td rowspan="4">Python</td>
+      <td>Aventuras Fantasticas</td>
+      <td>Python (Funcional, Libs: Time, Random, Math)</td>
+    </tr>
+    <tr>
+      <td>Forca</td>
+      <td>Python (OOP, Libs: OS, Random)</td>
+    </tr>
+    <tr>
+      <td>Desafios Coder Challenge</td>
       <td>Python</td>
+    </tr>
+    <tr>
       <td>Duck System</td>
-      <td>Python</td>
+      <td>Python (Libs: PyODBC, Pandas, Math, String, OS, Colorama), SQL Server</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Exercícios</td>
+      <td>Java</td>
     </tr>
   </tbody>
 </table>
