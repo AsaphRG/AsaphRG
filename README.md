@@ -34,11 +34,11 @@
       <td>Python (OOP, Libs: OS, Random)</td>
     </tr>
     <tr>
-      <td>Desafios Coder Challenge</td>
+      <td>Desafios (Coder Challenge)</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AsaphRG/Duck_System">Duck System</a></td>
+      <td><a href="https://github.com/AsaphRG/Duck_System">Duck System (Coder Challenge)</a></td>
       <td>Python (Libs: PyODBC, Pandas, Math, String, OS, Colorama), SQL Server</td>
     </tr>
     <tr>
