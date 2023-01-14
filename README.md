@@ -34,7 +34,7 @@
       <td>Python (OOP, Libs: OS, Random)</td>
     </tr>
     <tr>
-      <td>Desafios (Coder Challenge)</td>
+      <td><a href="https://github.com/AsaphRG/Desafios_Coder_Challenge">Desafios (Coder Challenge)</a></td>
       <td>Python</td>
     </tr>
     <tr>
