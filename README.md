@@ -6,7 +6,7 @@
 
 Here you can navigate through my repositories:
 
-<table>
+<table style="margin: auto">
   <thead>
     <tr>
       <th>Category</th>
