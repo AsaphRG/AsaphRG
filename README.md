@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsaphRG! Jr. software development focused in web apps and systems.
+- 👋 Hi, I’m @AsaphRG! Jr. software developer focused in web apps and systems.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Java, but I already have knowledge in HTML, CSS, Javascript, Python and SQL.
 <!-- - 💞️ I’m looking to collaborate on ... -->
