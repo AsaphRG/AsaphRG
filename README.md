@@ -30,7 +30,7 @@
       <td>Python (Estruturada, Libs: Time, Random, Math)</td>
     </tr>
     <tr>
-      <td>Forca</td>
+      <td><a href="https://github.com/AsaphRG/Forca"Forca</a></td>
       <td>Python (OOP, Libs: OS, Random)</td>
     </tr>
     <tr>
