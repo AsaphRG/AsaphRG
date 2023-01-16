@@ -16,13 +16,13 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Web</td>
-      <td><a href="https://github.com/AsaphRG/Projeto_Abraco">Projeto Abraço</a></td>
-      <td>HTML5, CSS3 e Javascript</td>
+      <td rowspan="2"><a href="https://github.com/AsaphRG/MotociclistasIntercessores">Motociclistas intercessores</a></td>
+      <td>HTML5, CSS3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AsaphRG/MotociclistasIntercessores">Motociclistas intercessores</a></td>
-      <td>HTML5, CSS3</td>
+      <td>Web</td>
+      <td><a href="https://github.com/AsaphRG/Projeto_Abraco">Projeto Abraço</a></td>
+      <td>HTML5, CSS3 e Javascript</td>
     </tr>
     <tr>
       <td rowspan="4">Python</td>
