@@ -10,8 +10,8 @@
   <thead>
     <tr>
       <th>Categoria<br>Category</th>
-      <th>Nome<br>Name</th>
-      <th>Tecnologias<br>Technologies</th>
+      <th>Nome / Name</th>
+      <th>Tecnologias / Technologies</th>
     </tr>
   </thead>
   <tbody>
