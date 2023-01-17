@@ -9,9 +9,9 @@
 <table>
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Name</th>
-      <th>Technologies</th>
+      <th>Categoria<br>Category</th>
+      <th>Nome<br>Name</th>
+      <th>Tecnologias<br>Technologies</th>
     </tr>
   </thead>
   <tbody>
@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td rowspan="4">Python</td>
-      <td>Aventuras Fantasticas</td>
+      <td><a href="https://github.com/AsaphRG/Aventuras_Fantasticas">Aventuras Fantasticas</a></td>
       <td>Python (Estruturada, Libs: Time, Random, Math)</td>
     </tr>
     <tr>
