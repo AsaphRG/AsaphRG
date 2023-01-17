@@ -41,11 +41,6 @@
       <td><a href="https://github.com/AsaphRG/Duck_System">Duck System (Coder Challenge)</a></td>
       <td>Python (Libs: PyODBC, Pandas, Math, String, OS, Colorama), SQL Server</td>
     </tr>
-    <tr>
-      <td>Java</td>
-      <td>Exercícios</td>
-      <td>Java</td>
-    </tr>
   </tbody>
 </table>
 
