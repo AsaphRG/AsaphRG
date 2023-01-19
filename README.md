@@ -41,6 +41,11 @@
       <td><a href="https://github.com/AsaphRG/Duck_System">Duck System (Coder Challenge)</a></td>
       <td>Python (Libs: PyODBC, Pandas, Math, String, OS, Colorama), SQL Server</td>
     </tr>
+    <tr rolspan="1">
+      <td>Java</td>
+      <td><a href="https://github.com/AsaphRG/Java_Exercises">Java exercises</a></td>
+      <td>Java</td>
+    </tr>
   </tbody>
 </table>
 
