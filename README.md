@@ -4,6 +4,8 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me in <a href="https://www.linkedin.com/in/asaphresinagil/?locale=en_US">my linkedin</a> or mail me at <a href="mailto:asaphresina1215@gmail.com">asaphresina1215@gmail.com</a>.
 
+[![Asaph's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsaphRG)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>Here you can navigate through my repositories:</p>
 
 <table>
