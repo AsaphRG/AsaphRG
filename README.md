@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Web</td>
+      <td rowspan="4">Web</td>
       <td><a href="https://github.com/AsaphRG/MotociclistasIntercessores">Motociclistas intercessores</a></td>
       <td>HTML5, CSS3</td>
     </tr>
@@ -25,13 +25,17 @@
       <td>HTML5, CSS3 e Javascript</td>
     </tr>
     <tr>
-      <td rowspan="4">Python</td>
-      <td><a href="https://github.com/AsaphRG/Aventuras_Fantasticas">Aventuras Fantasticas</a></td>
-      <td>Python (Estruturada, Libs: Time, Random, Math)</td>
+      <td><a href="https://github.com/AsaphRG/me-diga-a-palavra">Forca</a></td>
+      <td>Python (OOP, Libs: Django, Cryptography, Python-Dotenv, Random, PsycoPG, Gunicorn)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AsaphRG/Forca">Forca</a></td>
-      <td>Python (OOP, Libs: OS, Random)</td>
+      <td><a href="https://github.com/AsaphRG/onde_estou">Onde estou?</a></td>
+      <td>PHP, HTML, CSS, Javascript, Bootstrap</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Python</td>
+      <td><a href="https://github.com/AsaphRG/Aventuras_Fantasticas">Aventuras Fantasticas</a></td>
+      <td>Python (Estruturada, Libs: Time, Random, Math)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/AsaphRG/Desafios_Coder_Challenge">Desafios (Coder Challenge)</a></td>
